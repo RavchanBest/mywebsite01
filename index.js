@@ -23,7 +23,7 @@ function checkAge() {
 
 
 btn.addEventListener("click", () => {
-    clicksdisplay.innerHTML = clicks += 1000000
+    clicksdisplay.innerHTML = clicks += 100
 })
 
 
